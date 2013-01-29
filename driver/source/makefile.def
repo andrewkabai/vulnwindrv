@@ -1,0 +1,7 @@
+EXPORTS
+	DumbDrvFunc
+	VulnWinDrvHandleDumbFunc
+	
+!INCLUDE $(NTMAKEENV)\makefile.def
+	
+	

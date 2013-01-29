@@ -1,0 +1,8 @@
+TARGETNAME = vulnwindrv
+TARGETPATH = obj
+TARGETTYPE = DRIVER
+
+INCLUDES = %BUILD%\inc
+LIBS = %BUILD%\lib
+
+SOURCES = driver.c dumbfunc.c
